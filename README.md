@@ -20,27 +20,43 @@ Customer Count:-Lists the customers for each year.
 SalesData:-The raw dataset containing detailed transaction information including:Order Date, Customer Name, State, Category, Product Name, Sales, Quantity, and Profit.
 
 Data Cleaning Process
+
 Before performing analysis, I conducted a thorough data cleaning process to ensure data accuracy and consistency, which included:
+
 Removing duplicates and correcting inconsistencies in the customer and product fields.
+
 Handling missing values and ensuring correct date formats.
+
 Standardizing categorical variables (e.g., product categories, state names).
+
 Validating the integrity of sales and profit figures across the dataset.
+
 This process ensured a reliable foundation for meaningful analysis.
 
 Project Features
+
 Data Analysis: In-depth analysis of sales, profit margins, and customer data.
+
 Pivot Tables: Utilized pivot tables to summarize and organize data.
+
 Data Visualization: Charts and graphs to visualize sales by category, customer, and region.
+
 Excel Functions: Leveraged Excel functions such as SUMIF, VLOOKUP, and INDEX MATCH to clean and manipulate data.
 
 Key Insights
+
 Top Product Categories: Phones and Chairs are the highest-selling categories.
+
 Profitable States: States like Arizona and Alabama contribute significantly to sales.
+
 Customer Segmentation: Identified top customers like Tamara Chand based on profit contribution.
 
 How to Use
+
 Download the Excel file from this repository.
+
 Open the file in Microsoft Excel.
+
 Navigate through different sheets to explore insights on sales, profit, and customer data.
 
 Conclusion
