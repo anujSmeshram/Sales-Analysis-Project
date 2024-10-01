@@ -4,12 +4,19 @@ This project demonstrates a comprehensive sales analysis using Microsoft Excel. 
 
 Data Summary
 The project consists of the following key data components:
+
 Sales By Category:-Displays total sales across product categories.
+
 Profit Gained:-Provides an overview of profits categorized by year and product.
+
 Sales By State:-Shows total sales across various U.S. states.
+
 Top 5 Customers:-Identifies the top 5 customers by profit contribution.
+
 Monthly Sales:-Summarizes monthly sales performance.
+
 Customer Count:-Lists the customers for each year.
+
 SalesData:-The raw dataset containing detailed transaction information including:Order Date, Customer Name, State, Category, Product Name, Sales, Quantity, and Profit.
 
 Data Cleaning Process
